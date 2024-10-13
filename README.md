@@ -1,8 +1,8 @@
 # 🤖 ChatGPT Discord Bot - Votre assistant IA sur Discord
 
 [![Discord](https://img.shields.io/discord/869149763558342686?color=%237289DA&label=Join%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/yTvzufG63a)
-[![Version](https://img.shields.io/github/package-json/v/clement-skyway/bot-chatgpt?style=for-the-badge)](https://github.com/clement-skyway/bot-chatgpt/releases)
-[![License: MIT](https://img.shields.io/github/license/clement-skyway/bot-chatgpt?style=for-the-badge)](LICENSE)
+[![Version](https://img.shields.io/github/package-json/v/clement-skyway/Bot-ChatGPT?style=for-the-badge)](https://github.com/clement-skyway/Bot-ChatGPT/releases)
+[![License: MIT](https://img.shields.io/github/license/clement-skyway/Bot-ChatGPT?style=for-the-badge)](LICENSE)
 
 - ATTENTION : Ce robot n'est en aucun cas affilié avec OpenAI et ne fonctionne pas grâce au GPT4 officiel.
 - WARNING: This robot is in no way affiliated with OpenAI, and does not work with the official GPT4.
@@ -44,12 +44,12 @@ Avant de démarrer, vous aurez besoin des éléments suivants :
 
 1. Clonez ce repository sur votre machine locale :
   ```
-  git clone https://github.com/username/bot-chatgpt.git
+  git clone https://github.com/username/Bot-ChatGPT.git
   ```
 
 2. Accédez au répertoire du bot :
   ```
-  cd bot-chatgpt
+  cd Bot-ChatGPT
   ```
 
 3. Installez les dépendances nécessaires :
@@ -98,7 +98,7 @@ Les contributions sont **les bienvenues** ! Suivez ces étapes pour contribuer a
 
 ## 💬 Support
 
-Si vous avez besoin d'aide, rejoignez notre [serveur Discord officiel](https://discord.gg/yTvzufG63a) ou ouvrez un ticket dans la section [Issues](https://github.com/clement-skyway/bot-chatgpt/issues).
+Si vous avez besoin d'aide, rejoignez notre [serveur Discord officiel](https://discord.gg/yTvzufG63a) ou ouvrez un ticket dans la section [Issues](https://github.com/clement-skyway/Bot-ChatGPT/issues).
 
 ---
 
