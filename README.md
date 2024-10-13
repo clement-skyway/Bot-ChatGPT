@@ -81,7 +81,7 @@ Avant de démarrer, vous aurez besoin des éléments suivants :
 
 - Sous Yarn
   ```
-  yarn index.js
+  yarn run node index.js
   ```
 
 ### Configuration
