@@ -44,7 +44,7 @@ Avant de démarrer, vous aurez besoin des éléments suivants :
 
 1. Clonez ce repository sur votre machine locale :
   ```
-  git clone https://github.com/username/Bot-ChatGPT.git
+  git clone https://github.com/clement-skyway/Bot-ChatGPT.git
   ```
 
 2. Accédez au répertoire du bot :
