@@ -1,14 +1,14 @@
 {
   "name": "bot-chatgpt",
-  "version": "0.0.1",
-  "description": "Robot en Discord.JSV14 permettant de parler avec GPT4 (non officiel).",
+  "version": "1.0.0",
+  "description": "Robot Discord permettant de communiquer avec un API de GPT4 (non officielle ni affiliée avec OpenAI).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clement-skyway/Bot-ChatGPT.git"
+    "url": "git+https://github.com/clement-skyway/bot-chatgpt.git"
   },
   "keywords": [
     "chatgpt",
@@ -19,9 +19,9 @@
   "author": "Clément",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/clement-skyway/Bot-ChatGPT/issues"
+    "url": "https://github.com/clement-skyway/bot-chatgpt/issues"
   },
-  "homepage": "https://github.com/clement-skyway/Bot-ChatGPT#readme",
+  "homepage": "https://github.com/clement-skyway/bot-chatgpt#readme",
   "dependencies": {
     "axios": "^1.7.7",
     "colors": "^1.4.0",
