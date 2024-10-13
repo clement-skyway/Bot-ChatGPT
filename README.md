@@ -72,6 +72,11 @@ Avant de démarrer, vous aurez besoin des éléments suivants :
   API_KEY=VOTRE_CLE_API
   ```
 
+7. Lancer le robot
+  ```
+  node index.js
+  ```
+
 ### Configuration
 
 Le robot est entièrement configurable via un fichier .env Exemple de configuration :
