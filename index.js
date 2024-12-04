@@ -20,7 +20,7 @@ const client = new Client({
     ],
     presence: {
         activities: [{
-            name: process.env.status,
+            name: process.env.STATUS,
             type: ActivityType.Custom
         }],
         status: "online"
